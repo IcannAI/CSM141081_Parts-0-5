@@ -5,3 +5,4 @@ Full Stack Web Development
 
 ### Once you have completed enough exercises for a passing grade, you can download the course certificate from the submission system. https://studies.cs.helsinki.fi/stats/courses/fullstackopen/submissions
 ### You do not need to attend the course exam or register to the Open University course in order to obtain the course certificate.
+### The exercises can be submitted until 23:59 EET on 1 March 2023.
