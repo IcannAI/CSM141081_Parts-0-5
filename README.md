@@ -15,7 +15,7 @@ You can download the course certificate from the submission system. https://stud
 Once you have completed enough exercises for a passing grade, you can download the course certificate from the submission system. A Finnish personal identity number is not required. You do not need to attend the course exam or register to the Open University course in order to obtain the course certificate. Course materials (without credits) and a certificate are available to everyone without official enrollment on the course.
 
 ### Deadline
-The exercises can be submitted until 23:59 EET on 1 March 2023.
+The exercises can be submitted until **23:59 EET on 1 March 2023.**
 
 ------------------------------------------------------------------------
 ## Part 0 - Fundamentals of Web apps
