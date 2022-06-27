@@ -16,4 +16,4 @@ Once you have completed enough exercises for a passing grade, you can download t
 
 ### The exercises can be submitted until 23:59 EET on 1 March 2023.
 
-============================================
+------------------------------------------------------------------------
