@@ -14,6 +14,24 @@ You can download the course certificate from the submission system. https://stud
 ### Certificate
 Once you have completed enough exercises for a passing grade, you can download the course certificate from the submission system. A Finnish personal identity number is not required. You do not need to attend the course exam or register to the Open University course in order to obtain the course certificate. Course materials (without credits) and a certificate are available to everyone without official enrollment on the course.
 
-### The exercises can be submitted until 23:59 EET on 1 March 2023.
+### Deadline
+The exercises can be submitted until 23:59 EET on 1 March 2023.
 
 ------------------------------------------------------------------------
+## Part 0 - Fundamentals of Web apps
+https://fullstackopen.com/en/part0
+
+## Part 1 - Introduction to React
+https://fullstackopen.com/en/part1
+
+## Part 2 - Communicating with server
+https://fullstackopen.com/en/part2
+
+## Part 3 - Programming a server with NodeJS and Express
+https://fullstackopen.com/en/part3
+
+## Part 4 - Testing Express servers, user administration
+https://fullstackopen.com/en/part4
+
+## Part 5 - Testing React apps
+https://fullstackopen.com/en/part5
